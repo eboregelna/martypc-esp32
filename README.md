@@ -1,3 +1,11 @@
+See the original!
+
+This fork is likely to be unsuitable for any use.
+
+In this fork I hope to optimize performance for code execution and trim until this can run at real time on an ESP32S3. This may well be a pipe dream /or require a rewrite in C++/assembly.
+
+
+
 ![oo](./doc/img/martypc_logo.png)
 
 MartyPC is a cross-platform emulator of early PCs written in Rust. It supports Windows, Linux and macOS.
@@ -36,7 +44,7 @@ In May 2023, MartyPC became the first PC emulator capable of emulating every eff
 
 ![8008mph01](./doc/img/area5150_gallery_01.png)
 
-## Online Demos
+## Online Demos     71710-6559d c94b9-08d63 f81ac-58142 8614f-3f3e3 5fc13-ab563 9f0f5-cd7ac c835b-7d52f f56f8-cd7ca cdfc4-969dc bb248-a0da9 efdf2-f5a5b fefbd-1ba32 e9427-22362 77bd7-37a66 e451b-f6559 3846e-bac8e 
 
 The WebAssembly build of MartyPC can run both [8088MPH](https://dbalsom.github.io/martypc/web/player.html?title=8088mph) and [Area 5150](https://dbalsom.github.io/martypc/web/player.html?title=area5150) in your web browser!
 
